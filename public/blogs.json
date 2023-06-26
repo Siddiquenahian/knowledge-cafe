@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "name": "Jhankar Mahbub",
+        "blogTitle": "Complete Web Development Course With Jhankar Mahbub",
+        "blogCoverImage": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "authorImage": "https://qph.cf2.quoracdn.net/main-thumb-19233458-200-bOipoRLBNvrrPxLmBkUUCAW4HDDDwDyX.jpeg",
+        "readTime": 5,
+        "publishDate": "May 14 (4 Days ago)"
+
+    },
+    {
+        "id":"2",
+        "name": "Lamia",
+        "blogTitle": "How to get your first job as a self-taught programmer",
+        "blogCoverImage": "https://images.unsplash.com/photo-1629904853716-f0bc54eea481?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Zmlyc3QlMjBqb2J8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "authorImage": "https://images.unsplash.com/photo-1622651783098-cec84061b1dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fGhpamFifGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "readTime": 7,
+        "publishDate": "May 14 (4 Days ago)"
+
+    },
+    {
+        "id":"3",
+        "name": "Mr. Malta",
+        "blogTitle": "Benefits of Sleeping",
+        "blogCoverImage": "https://images.unsplash.com/photo-1515894203077-9cd36032142f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2xlZXBpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "authorImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "readTime": 12,
+        "publishDate": "May 14 (4 Days ago)"
+
+    },
+    {
+        "id":"4",
+        "name": "Mr. Kodbel",
+        "blogTitle": "How to overcome Addiction",
+        "blogCoverImage": "https://images.unsplash.com/photo-1620302044732-9e2161517ecd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWRkaWN0aW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "authorImage": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "readTime": 10,
+        "publishDate": "May 14 (4 Days ago)"
+
+    }
+]

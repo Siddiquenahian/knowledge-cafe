@@ -1,0 +1,24 @@
+.spent-time {
+  font-size: 0.7rem;
+  text-align: center;
+  background: rgba(96, 71, 236, 0.1);
+  border: 1px solid #6047ec;
+  border-radius: 8px;
+}
+.spent-time h4 {
+  color: #6047ec;
+}
+.bookmarked {
+  background: rgba(17, 17, 17, 0.05);
+  border-radius: 8px;
+  padding: 10px;
+  margin-top: 25px;
+}
+.bookmarked h4{
+    margin: 0px;
+}
+.note{
+    margin-top: 30px;
+    position: sticky;
+    top: 0;
+}
